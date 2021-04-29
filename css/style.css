@@ -1,1 +1,26 @@
-* {background: green}
+
+
+body {
+	background-image: url(https://a-static.besthdwallpaper.com/lavendel-falt-tapet-2560x1440-12132_51.jpg);
+	background-image: transparent;
+}
+
+
+.region-header {
+	display: flex;
+	justify-content: space-around;
+	padding-top: 1em;
+
+}
+
+.navbar-brand {
+	margin-right: 15em;
+}
+
+#block-sbf-page-title {
+	margin-top: 10em;
+}
+
+.page-title {
+	font-size: 5rem;
+}
